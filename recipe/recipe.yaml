@@ -1,5 +1,5 @@
 context:
-  version: "0.11.1"
+  version: "0.11.2"
 
 package:
   name: civet
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@danielx/civet/-/civet-${{ version }}.tgz
-  sha256: 55604b4d6f2dfb53c78416da7872b662eb1c07b6fe851af4ab79400c2a428723
+  sha256: 4003fdbee5c5093b0e06039bc20be5d14e7904cb21443c3bd589177a8932f6bf
 
 build:
   number: 0
